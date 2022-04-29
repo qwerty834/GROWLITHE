@@ -1,0 +1,13 @@
+.header img {
+	width: 80px;
+	margin-left: -15px;
+}
+html,
+body {
+	height: 100%;
+	margin: 0;
+}
+.login_div {
+	float: none;
+	border-radius: 15px;
+}
